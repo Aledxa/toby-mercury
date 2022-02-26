@@ -13,7 +13,7 @@
         </a>
 
 <center>
-<img class="image" src="https://i.postimg.cc/d0GMcNyY/Ephoto360-com-1621a13e59ff84.jpg" height="600" width="980"><br>
+<img class="image" src="https://yt3.ggpht.com/1D_O2gk8zPZwmVjs7QhYLnT4bO8zVf60k-x_OZoZWxN34PxiUSgO9SKeIH0vc9rd2DoB-LTA2qY=s900-c-k-c0x00ffffff-no-rj" height="600" width="980"><br>
 <script>
 swal("Thank You Message", "Thank You For Visiting Us, Use Earphones & Click Play Button, Enjoy the Music", "info") 
 .then((value) => { swal("Followed?!", "Did You Follow me On Github?", "warning");});
