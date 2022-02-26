@@ -21,7 +21,7 @@ swal("Thank You Message", "Thank You For Visiting Us, Use Earphones & Click Play
 <div class="blink">
 <div id="back"><font size="20">
 <b>
-  <span class="one">✨ Thank You For Visiting</span><span class="two"> Toby Mercury ✨</span>
+  <span class="one">✨ Thank You For Visiting</span>
   </b>
 </font>
 </div>
